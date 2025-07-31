@@ -1,4 +1,4 @@
-My Bike landing page
+## My Bike landing page
 
 A single-page landing website designed for selling bikes. It features a responsive layout, modern user interface, and is optimized for fast loading and smooth user interaction
 
