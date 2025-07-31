@@ -7,9 +7,9 @@ A single-page landing website designed for selling bikes. It features a responsi
 
 # Technologies:
 
-  HTML
-  SCSS
-  JavaScript
+  - HTML
+  - SCSS
+  - JavaScript
 
 # Instructions:
 
