@@ -14,12 +14,17 @@ A single-page landing website designed for selling bikes. It features a responsi
 # Instructions:
 
   Clone the repository:
+  
   git clone https://danilat191.github.io/new-landing/
+  
   Install dependencies:
+  
   npm install
    or
   yarn install
+  
   Run the project locally:
+  
   npm start
    or
   yarn start
