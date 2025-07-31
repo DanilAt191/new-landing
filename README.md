@@ -19,12 +19,12 @@ A single-page landing website designed for selling bikes. It features a responsi
   
   - Install dependencies:
   
-  npm install
-   or
-  yarn install
+    npm install
+     or
+    yarn install
   
   - Run the project locally:
   
-  npm start
-   or
-  yarn start
+      npm start
+       or
+      yarn start
