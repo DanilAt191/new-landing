@@ -15,7 +15,7 @@ A single-page landing website designed for selling bikes. It features a responsi
 
   - Clone the repository:
   
-  git clone https://danilat191.github.io/new-landing/
+    git clone https://danilat191.github.io/new-landing/
   
   - Install dependencies:
   
@@ -25,6 +25,6 @@ A single-page landing website designed for selling bikes. It features a responsi
   
   - Run the project locally:
   
-      npm start
-       or
-      yarn start
+    npm start
+     or
+    yarn start
