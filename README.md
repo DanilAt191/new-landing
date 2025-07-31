@@ -1,17 +1,17 @@
-$ My Bike landing page
+# My Bike landing page
 
 A single-page landing website designed for selling bikes. It features a responsive layout, modern user interface, and is optimized for fast loading and smooth user interaction
 
-# Live demo:
+## Live demo:
   - [DEMO LINK](https://danilat191.github.io/new-landing/)
 
-# Technologies:
+## Technologies:
 
   - HTML
   - SCSS
   - JavaScript
 
-# Instructions:
+## Instructions:
 
   - Clone the repository:
   
