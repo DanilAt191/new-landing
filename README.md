@@ -1,4 +1,26 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+My Bike landing page
+
+A single-page landing website designed for selling bikes. It features a responsive layout, modern user interface, and is optimized for fast loading and smooth user interaction
+
+Live demo:
+  - [DEMO LINK](https://danilat191.github.io/new-landing/)
+
+Technologies:
+
+  HTML
+  SCSS
+  JavaScript
+
+Instructions:
+
+  Clone the repository:
+  git clone https://danilat191.github.io/new-landing/
+  Install dependencies:
+  npm install
+  # or
+  yarn install
+  Run the project locally:
+  npm start
+  # or
+  yarn start
+
